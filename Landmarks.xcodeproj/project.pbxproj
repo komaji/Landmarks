@@ -13,6 +13,7 @@
 		7485E99A25A2E2F700D1BBEF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7485E99925A2E2F700D1BBEF /* Preview Assets.xcassets */; };
 		7485E9A525A2E2F700D1BBEF /* LandmarksTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7485E9A425A2E2F700D1BBEF /* LandmarksTests.swift */; };
 		7485E9B025A2E2F700D1BBEF /* LandmarksUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7485E9AF25A2E2F700D1BBEF /* LandmarksUITests.swift */; };
+		7485E9C125A2EBE500D1BBEF /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7485E9C025A2EBE500D1BBEF /* CircleImage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		7485E9AB25A2E2F700D1BBEF /* LandmarksUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LandmarksUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7485E9AF25A2E2F700D1BBEF /* LandmarksUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITests.swift; sourceTree = "<group>"; };
 		7485E9B125A2E2F700D1BBEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7485E9C025A2EBE500D1BBEF /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				7485E99225A2E2F600D1BBEF /* LandmarksApp.swift */,
 				7485E99425A2E2F600D1BBEF /* ContentView.swift */,
 				7485E99625A2E2F700D1BBEF /* Assets.xcassets */,
+				7485E9C025A2EBE500D1BBEF /* CircleImage.swift */,
 				7485E99B25A2E2F700D1BBEF /* Info.plist */,
 				7485E99825A2E2F700D1BBEF /* Preview Content */,
 			);
@@ -261,6 +264,7 @@
 			files = (
 				7485E99525A2E2F600D1BBEF /* ContentView.swift in Sources */,
 				7485E99325A2E2F600D1BBEF /* LandmarksApp.swift in Sources */,
+				7485E9C125A2EBE500D1BBEF /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
